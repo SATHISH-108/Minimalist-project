@@ -1,0 +1,24 @@
+.footer-container {
+  background: #25a769;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.footer-paragraph {
+  font-family: Neue Metana;
+  font-size: 20px;
+  font-weight: 700;
+  color: #ece14c;
+  height: 10px;
+  margin-top: 7px;
+  padding-bottom: 5px;;
+}
+.social-media-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 130px;
+  height: 10px;
+  padding-bottom: 15px;
+}

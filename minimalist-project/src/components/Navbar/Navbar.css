@@ -1,0 +1,17 @@
+.navbar-container {
+  width: 1100;
+  border-bottom: 1px solid #ff777766;
+  background: #1c1c1c33;
+  padding-left: 70px;
+  padding-top: 2px;
+  padding-bottom: 22px;
+}
+.navbar-heading {
+  color: white;
+  width: 6.81px;
+  height: 6.31px;
+  top: 16.96px;
+  left: 50.04px;
+  gap: 0px;
+  opacity: 0px;
+}

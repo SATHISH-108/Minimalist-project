@@ -1,0 +1,26 @@
+.top-container {
+  background-image: url("https://s3-alpha-sig.figma.com/img/22f6/b7b5/b47561aa2ad560235e2702e286a6d4b7?Expires=1719792000&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=D1sbiDpivdUXcgrTSSc5RJI2iy3cl2mwuq097Tpi94ZpTu3~CqkJu2CqbmlnwjeiEeUzVqQUUgTZIB0HIJaeAcoUGpYkYgj5iApxpXhBq8jPPpW7Cmtm0saXQFrc0LKUy6XsnG8wxIZHPREhmyuW4LNknYuhHvNm8TprWaYRkGly99XqiTze8Z11IXY6mv4riXabS7ljTwOF1zxFW0ruK4EYsRp5fslGOdqTzDg4mtihhjaFPBli6UHwj4DU7WMKupfRMcViizjGCa929hiupZkrCgYl1mNTaiV4UeJVa06~6uVCLNAiSqhZeBapYwomqMSjuGQnDIkac7mNX4VsSA__");
+  height: 407px;
+}
+.content-container {
+  margin-left: 120px;
+  margin-top: 160px;
+}
+.top-container-paragraph {
+  color: #ffffff;
+  font-size: 25px;
+  width: 290px;
+  height: 80px;
+  font-family: roboto;
+  font: weight 600px;
+}
+.top-container-button {
+  width: 92px;
+  height: 36px;
+  font-family: Roboto;
+  font-size: 10px;
+  font-weight: 600;
+  text-align: center;
+  color: #fe0000;
+  border: transparent;
+}
